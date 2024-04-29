@@ -27,14 +27,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Screenshot%20.png)
+![](./design/Screenshot%202024-04-29%20at%2012-12-08%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/MICHELLENGEI/nft-preview-card-component-main.git)
+- Live Site URL: [Netlify](https://nftpreviewcardcomponentfem.netlify.app/)
 
 ## My process
 
